@@ -7,3 +7,7 @@
 * sudo zypper ar -cfp 90 https://ftp.gwdg.de/pub/linux/misc/packman/suse/openSUSE_Tumbleweed/ packman
 ##### Seconde ligne de commande : 
 * sudo zypper dup --from packman --allow-vendor-change
+
+#### b) Installation driver ethernet (packman doit être installé avant)
+* sudo zypper in r8168-kmp-default
+* sudo zypper in r8168-blacklist-r8169
