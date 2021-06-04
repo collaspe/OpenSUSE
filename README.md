@@ -20,4 +20,4 @@
 * sudo zypper dup (faire la mise à jour de la distribution)
 
 #### b) Supprimer un logiciel
-* sudo zypper rm 'nom du logiciel' -clean-deps
+* sudo zypper rm --clean-deps 'nom du logiciel'
