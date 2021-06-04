@@ -20,5 +20,5 @@
 * sudo zypper dup (faire la mise à jour de la distribution)
 
 #### b) Supprimer un logiciel et des dépendances
-* sudo zypper rm --clean-deps 'nom du logiciel' (supprimer un package avec ses dépendances)
+* sudo zypper rm --clean-deps 'nom du logiciel', sudo zypper rm -u 'nom du logiciel' (supprimer un package avec ses dépendances)
 * zypper packages --unneeded (trouver des packages qui ne sont probablement plus nécessaires)
