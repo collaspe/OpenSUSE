@@ -1,4 +1,4 @@
-# OpenSUSE-configuration
+# OpenSUSE
 ## Configuration d'OpenSUSE sur mon PC Lenovo Ideadpad 330-15ARR
 
 ### 1. À faire dès la distribution installée
