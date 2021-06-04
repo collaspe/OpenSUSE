@@ -11,3 +11,13 @@
 #### b) Installation driver ethernet (packman doit être installé avant)
 * sudo zypper in r8168-kmp-default
 * sudo zypper in r8168-blacklist-r8169
+
+##Lignes de commande à connaître
+### 1. Zypper
+#### a) Mises à jour
+*sudo zypper refresh (rafraichir les dépots)
+*sudo zypper up (faire les mises à jour des logiciels)
+*sudo zypper dup (faire la mise à jour de la distribution)
+
+#### b) Supprimer un logiciel
+*sudo zypper rm 'nom du logiciel' -clean-deps
