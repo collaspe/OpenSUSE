@@ -15,9 +15,9 @@
 ##Lignes de commande à connaître
 ### 1. Zypper
 #### a) Mises à jour
-*sudo zypper refresh (rafraichir les dépots)
-*sudo zypper up (faire les mises à jour des logiciels)
-*sudo zypper dup (faire la mise à jour de la distribution)
+* sudo zypper refresh (rafraichir les dépots)
+* sudo zypper up (faire les mises à jour des logiciels)
+* sudo zypper dup (faire la mise à jour de la distribution)
 
 #### b) Supprimer un logiciel
-*sudo zypper rm 'nom du logiciel' -clean-deps
+* sudo zypper rm 'nom du logiciel' -clean-deps
