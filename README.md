@@ -12,8 +12,8 @@
 * sudo zypper in r8168-kmp-default
 * sudo zypper in r8168-blacklist-r8169
 
-##Lignes de commande à connaître
-### 2. Zypper
+## Lignes de commande à connaître
+### 1. Zypper
 #### a) Mises à jour
 * sudo zypper refresh (rafraichir les dépots)
 * sudo zypper up (faire les mises à jour des logiciels)
