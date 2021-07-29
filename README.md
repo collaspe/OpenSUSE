@@ -22,3 +22,11 @@
 #### b) Supprimer un logiciel et des dépendances
 * sudo zypper rm --clean-deps 'nom du logiciel', sudo zypper rm -u 'nom du logiciel' (supprimer un package avec ses dépendances)
 * zypper packages --unneeded (trouver des packages qui ne sont probablement plus nécessaires)
+
+### 2. Flatpak
+#### a) Lister les paquets
+* flatpak list
+#### b) Installer un logiciel
+* flatpak install 'nom du logiciel'
+#### c) Désinstaller un logiciel
+* flatpak uninstall 'nom du logiciel'
