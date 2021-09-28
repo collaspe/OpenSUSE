@@ -30,3 +30,7 @@
 * flatpak install 'nom du logiciel'
 #### c) Désinstaller un logiciel
 * flatpak uninstall 'nom du logiciel'
+
+##KDE
+### 1. Lignes de commmandes
+* kdesu systemsettings5 (ouvrir le configuration système en tant qu'administrateur)
