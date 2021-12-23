@@ -35,6 +35,9 @@
 #### c) Désinstaller un logiciel
 * flatpak uninstall 'nom du logiciel'
 
+##GNOME
+### 1. Extensions Gnome
+
 ## KDE
 ### 1. Lignes de commmandes
 * kdesu systemsettings5 (ouvrir le configuration système en tant qu'administrateur)
