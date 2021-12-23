@@ -24,6 +24,10 @@
 * zypper packages --unneeded (trouver des packages qui ne sont probablement plus nécessaires)
 
 ### 2. Flatpak
+#### Installer Flatpak
+* sudo zypper install flatpak
+#### Ajouter le depot Flatpak
+* flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 #### a) Lister les paquets
 * flatpak list
 #### b) Installer un logiciel
