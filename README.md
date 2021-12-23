@@ -35,7 +35,7 @@
 #### c) Désinstaller un logiciel
 * flatpak uninstall 'nom du logiciel'
 
-##GNOME
+## GNOME
 ### 1. Extensions Gnome
 
 ## KDE
